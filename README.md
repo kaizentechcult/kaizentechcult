@@ -20,9 +20,6 @@
 💡 Continuous Improvement | ⚙️ Tech Without Limits | 🎯 Creative Collaborations  
 
 [![Website](https://img.shields.io/badge/🌐%20Visit%20Our-Website-%230000FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kaizentechsociety.xyz/)  
-<a href="https://discord.gg/KaizenTechCult" target="_blank">
-    <img src="https://img.shields.io/badge/🤝%20Join%20us%20on-Discord-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Our Discord">
-</a>  
 [![GitHub Stars](https://img.shields.io/github/stars/KaizenTechCult?style=for-the-badge&color=ff69b4&logo=github)](https://github.com/KaizenTechCult)  
 [![Contributors](https://img.shields.io/github/contributors/KaizenTechCult/KaizenTechCult?style=for-the-badge&color=green)](https://github.com/KaizenTechCult/KaizenTechCult/graphs/contributors)  
 
@@ -48,7 +45,7 @@ Our focus:
 ## 🌟 **Why Choose KaizenTechCult?**
 Here’s why we stand out:  
 ⚡ **Tech Without Limits:** Empowering a connected and innovative world.  
-💻 **Innovative Projects:** Crafting real-world applications like **SecureID** and **Kaizen Notes**.  
+💻 **Innovative Projects:** Crafting real-world applications.
 🎉 **Community-Driven:** We grow together, building on shared expertise.
 
 ---
@@ -57,17 +54,6 @@ Here’s why we stand out:
 We build with the best tools in the industry:
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,github,figma,nodejs&theme=light" alt="Tech Stack" />
-</div>
-
----
-
-## 🔥 **Featured Projects**
-📚 **Kaizen Notes**: A seamless notes-sharing platform for students.  
-
----
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KaizenTechCult&theme=radical&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
