@@ -53,15 +53,11 @@ Here’s why we stand out:
 ## 🎨 **Our Tech Stack**
 We build with the best tools in the industry:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,github,figma,nodejs&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,react,github,typescript,figma,nodejs&theme=light" alt="Tech Stack" />
 </div>
 
 ---
 ## 🚀 **Get Started with KaizenTechCult**
-
-1️⃣ **Clone the Repository**  
-bash
-git clone https://github.com/kaizentechcult/kaizentechcult.git
 
 ### 👥 **Join Our Tech Community**
 
