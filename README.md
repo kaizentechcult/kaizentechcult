@@ -89,7 +89,7 @@ We welcome **all contributions**—every bit counts!
 
 ### 🛡️ **License**
 
-This repository is licensed under the **MIT License**. Feel free to fork & contribute.
+This repository is licensed under the **MIT License**. 
 
 
 ---
